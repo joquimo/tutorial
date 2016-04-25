@@ -1,5 +1,5 @@
-Tutorial de Python en Español
-=============================
+Tutorial de Python en castellano
+================================
 
 Esta traducción cubre la versión 3.5.0 del tutorial de Python.
 
